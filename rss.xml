@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Veloed UK]]></title>
+        <description><![CDATA[Veloed UK]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Dec 2015 00:07:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The night of the Velodrome ]]></title>
+            <description><![CDATA[<article><h1>The night of the Velodrome </h1><p>I've been going round in circles as to whether the grid is real or the made up ideas of some over eager late night cheese scoffers.</p></article>]]></description>
+            <link>undefinedthe-night-of-the-velodrome/index.html</link>
+            <guid isPermaLink="false">35c0ddea-561b-4197-aaa4-752d76e2c58f</guid>
+            <pubDate>Sun, 20 Dec 2015 00:07:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
